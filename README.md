@@ -3,11 +3,12 @@
 * Web angular application on a responsive and componentized code.
 
 > [!NOTE]
-> Following the [web page](https://ovianaanthony.github.io/Angular-Accomplish-Xp/Angular-Accomplish-Xp/)
+> Following the [web page](https://ovianaanthony.github.io/Angular-Accomplish-Xp/Angular-Accomplish-Xp) available!
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
