@@ -3,7 +3,7 @@
 * Web angular application on a responsive and componentized code.
 
 > [!NOTE]
-> Following the [web page]()
+> Following the [web page](https://ovianaanthony.github.io/Angular-Accomplish-Xp/Angular-Accomplish-Xp/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
