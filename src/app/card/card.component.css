@@ -1,0 +1,60 @@
+.card{
+  width: 90%;
+  box-shadow: 11px 7px 29px 0px rgba(0,0,0,0.75);   /* acessa o site box shadow css generator, ajusta as sombras e copia as formatações aqui*/
+  -webkit-box-shadow: 11px 7px 29px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 11px 7px 29px 0px rgba(0,0,0,0.75);
+  display: flex;
+  flex-direction: row;       /*este define que os lados fiquem alainhados um do lado do outro, ao invés de colunas */
+  justify-content: space-between;
+  border-radius: 0.5cqi;
+}
+
+.card_left{
+  display: flex;
+  flex-direction: column;     /* Os elementos da esquerda são agrupados sequencialmente, em vez de ao lado um do outro*/
+  justify-content: center;   /* alinha as propriedades ao centro*/
+  padding-left: 10px;         /* espaçamento À esquerda */
+  padding-top: 18px;
+}
+
+.card_left > span{
+  font-weight: 400;
+  font-weight: bold;
+  color: rgb(73, 133, 133);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card_left > a{          /* À partir desta classe, acessa h1 */
+  margin-top: 15px;   /* Espaçamento entre o título e o conteúdo seguinte*/
+  font-size: 25px;    /* Altera o tamanho da fonte*/
+  color: black;
+  text-decoration: none;      /* remove o aspecto feio de link*/
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.card_left > a:hover{
+  color: blue;
+}
+
+.card_left > p {
+  padding-left: 1px;
+  color: gray;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.card_right > img{
+  width: 250px;          /* altera o tamanho da imagem */
+  padding-right: 30px;
+  padding: 0px;
+  transition-property: width, border-radius;
+  transition-duration: .3s;
+  transition-timing-function: linear;
+  transition-delay: .5s;
+  border-radius: 0.2cqi;
+}
+
+.card_right > img:hover{
+  width: 400px;
+}
+

@@ -1,0 +1,5 @@
+@media screen and (max-width: 900px){
+  .container__app > hr{
+    margin-bottom: 170px;
+  }
+}

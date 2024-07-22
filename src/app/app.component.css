@@ -1,0 +1,8 @@
+.container__app > app-card{
+  padding: 15px;
+}
+
+.container__app > hr{
+  margin: 0;
+  margin-bottom: 200px;
+}
