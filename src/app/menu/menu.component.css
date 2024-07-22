@@ -46,9 +46,9 @@
   margin-top: 8%; /* Espaçamento entre o título e o conteúdo seguinte*/
   font-size: 25px;    /* Altera o tamanho da fonte*/
   color: black;     /* remove o aspecto feio de link*/
-  padding-left: 626px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-weight: normal;
+  padding-left: 625px;
 }
 
 .card_left > p {
