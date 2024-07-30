@@ -14,7 +14,7 @@
   flex-direction: column;     /* Os elementos da esquerda são agrupados sequencialmente, em vez de ao lado um do outro*/
   justify-content: center;   /* alinha as propriedades ao centro*/
   padding-left: 10px;         /* espaçamento À esquerda */
-  padding-top: 18px;
+  padding-top: 0px;
 }
 
 .card_left > span{
@@ -45,6 +45,7 @@
 
 .card_right > img{
   width: 250px;          /* altera o tamanho da imagem */
+  height: 100%;
   padding-right: 30px;
   padding: 0px;
   transition-property: width, border-radius;
