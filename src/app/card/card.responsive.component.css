@@ -2,27 +2,27 @@
 @media screen and (max-width: 900px){
 
   .card_right{
-    padding-left: 10px;
+    padding-left: 3%;
   }
 
   .card_right > img{
-    width: 100px;          /* altera o tamanho da imagem */
+    width: 25vw;          /* altera o tamanho da imagem */
     padding-right: 0px;
     border-radius: 1cqi
   }
 
   .card_right > img:hover{
-    width: 130px;
+    width: 33vw;
   }
 
   .card_left > span{
     margin-top: 0px;
-    font-size: 7px;
+    font-size: 43%;
   }
 
   .card_left > a{          /* À partir desta classe, acessa h1 */
-    margin-top: 6px;   /* Espaçamento entre o título e o conteúdo seguinte*/
-    font-size: 13px;    /* Altera o tamanho da fonte*/
+    margin-top: 3%;   /* Espaçamento entre o título e o conteúdo seguinte*/
+    font-size: 75%;    /* Altera o tamanho da fonte*/
   }
 
   .card{
@@ -30,8 +30,8 @@
   }
 
   .card_left > p{
-    margin-top: 5px;
-    font-size: 6px;
+    margin-top: 2%;
+    font-size: 1.5vw;
   }
 }
 

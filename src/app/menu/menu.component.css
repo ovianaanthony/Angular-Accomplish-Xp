@@ -24,14 +24,14 @@
 
 .agir > a > img{
   position: absolute;
-  margin-top: 31px;
+  margin-top: 2%;
   left: 5%;
-  width: 61px;
+  width: 4.2%;
 }
 
 .card_left > ul > a > img{
   position: absolute;
-  width: 88px;
+  width: 5.95%;
   background: none;
 }
 
@@ -44,25 +44,25 @@
 
 .card_left > h1{          /* À partir desta classe, acessa h1 */
   margin-top: 8%; /* Espaçamento entre o título e o conteúdo seguinte*/
-  font-size: 25px;    /* Altera o tamanho da fonte*/
+  font-size: 165%;    /* Altera o tamanho da fonte*/
   color: black;     /* remove o aspecto feio de link*/
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-weight: normal;
-  padding-left: 625px;
+  padding-left: 80.1%;
 }
 
 .card_left > p {
   color: rgb(255, 255, 255);
   font-weight: bold;
   margin: 1;
-  padding-left: 620px;
+  padding-left: 40.5vw;
 }
 
 .card_right > img{
-  width: 200px;          /* altera o tamanho da imagem */
-  padding-right: 30px;
+  width: 13.2vw;          /* altera o tamanho da imagem */
+  padding-right: 20%;
   border-radius:20cqi;
-  padding-top: 35px;
+  padding-top: 18%;
 }
 
 

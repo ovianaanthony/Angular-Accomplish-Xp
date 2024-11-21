@@ -13,20 +13,19 @@
   display: flex;
   flex-direction: column;     /* Os elementos da esquerda são agrupados sequencialmente, em vez de ao lado um do outro*/
   justify-content: center;   /* alinha as propriedades ao centro*/
-  padding-left: 10px;         /* espaçamento À esquerda */
+  padding-left: 0.8%;         /* espaçamento À esquerda */
   padding-top: 0px;
 }
 
 .card_left > span{
-  font-weight: 400;
   font-weight: bold;
   color: rgb(73, 133, 133);
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .card_left > a{          /* À partir desta classe, acessa h1 */
-  margin-top: 15px;   /* Espaçamento entre o título e o conteúdo seguinte*/
-  font-size: 25px;    /* Altera o tamanho da fonte*/
+  margin-top: 1.5%;   /* Espaçamento entre o título e o conteúdo seguinte*/
+  font-size: 167%;    /* Altera o tamanho da fonte*/
   color: black;
   text-decoration: none;      /* remove o aspecto feio de link*/
   font-weight: bold;
@@ -44,7 +43,7 @@
 }
 
 .card_right > img{
-  width: 250px;          /* altera o tamanho da imagem */
+  width: 16.2vw;          /* altera o tamanho da imagem */
   height: 100%;
   padding-right: 30px;
   padding: 0px;
@@ -56,6 +55,9 @@
 }
 
 .card_right > img:hover{
-  width: 350px;
+  width: 23.3vw;
 }
 
+.card_right{
+  padding-left: 3%;
+}
